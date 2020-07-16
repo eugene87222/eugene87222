@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **eugene87222/eugene87222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# About me
+
 My name is Eugene and I'm currently pursuing my master's degree from National Chiao Tung University.
 - 📫 How to reach me:
   - [E-mail](mailto:eugene87222@gmail.com)
@@ -21,7 +21,8 @@ My name is Eugene and I'm currently pursuing my master's degree from National Ch
   - [Personal website](https://eugeen87222.github.io)
   - [Telegram](https://t.me/Eugene87222)
 
-# About me
+---
+
 ## EDUCATION
 ### National Chiao Tung University (NCTU)
 - BS in Computer Science (Anticipated graduation in 7/2020)
