@@ -12,13 +12,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# About me
+## Hi :))))
 
 My name is Eugene and I'm currently pursuing my master's degree from National Chiao Tung University.
 - 📫 How to reach me:
   - [E-mail](mailto:eugene87222@gmail.com)
   - [Facebook](https://www.facebook.com/eugene87222)
-  - [Personal website](https://eugeen87222.github.io)
   - [Telegram](https://t.me/Eugene87222)
 
 ---
