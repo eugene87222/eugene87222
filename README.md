@@ -25,7 +25,7 @@ My name is Eugene and I'm currently pursuing my master's degree from National Ch
 ## EDUCATION
 ### National Chiao Tung University (NCTU)
 - BS in Computer Science (Anticipated graduation in 7/2020)
-- GPA: 3.75/4.0
+- GPA: 3.76/4.3
 
 ---
 
