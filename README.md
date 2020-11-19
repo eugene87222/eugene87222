@@ -24,7 +24,7 @@ My name is Eugene and I'm currently pursuing my master's degree from National Ch
 
 ## EDUCATION
 ### National Chiao Tung University (NCTU)
-- Master in Computer Science (Anticipated graduation in 7/2022)
+- Master of Science in Computer Science (Anticipated graduation in 7/2022)
 
 ### National Chiao Tung University (NCTU)
 - Sep. 2016 - Jul. 2020
@@ -33,7 +33,7 @@ My name is Eugene and I'm currently pursuing my master's degree from National Ch
 
 ---
 
-## WORK EXPERIENCE
+## EXPERIENCE
 ### MiTAX Information Technology Corp.
 #### Junior engineer (July 2019 - Aug 2019)
 - Develope a registry editor which allows users to manage registry handily on Windows
