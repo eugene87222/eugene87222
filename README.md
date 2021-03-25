@@ -1,30 +1,20 @@
-<!--
-**eugene87222/eugene87222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## Hi :))))
 
-My name is Eugene and I'm currently pursuing my master's degree from National Chiao Tung University.
+My name is Eugene and I'm currently pursuing my master's degree from National Yang Ming Chiao Tung University.
 - 📫 How to reach me:
   - [E-mail](mailto:eugene87222@gmail.com)
   - [Facebook](https://www.facebook.com/eugene87222)
   - [Telegram](https://t.me/Eugene87222)
 
+![](https://github-readme-stats.vercel.app/api?username=eugene87222&theme=bear&show_icons=true&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=eugene87222&theme=bear&layout=compact&card_width=445)
+
 ---
 
 ## EDUCATION
-### National Chiao Tung University (NCTU)
-- Master of Science in Computer Science (Anticipated graduation in 7/2022)
+### National Yang Ming Chiao Tung University (NYCU)
+- Master of Science in Multimedia Engineer (Anticipated graduation in 7/2022)
 
 ### National Chiao Tung University (NCTU)
 - Sep. 2016 - Jul. 2020
