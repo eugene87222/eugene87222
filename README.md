@@ -15,7 +15,7 @@ My name is Eugene and I'm currently pursuing my master's degree from National Ya
 ## EDUCATION
 ### National Yang Ming Chiao Tung University (NYCU)
 - Master of Science in Multimedia Engineering (Anticipated graduation in Jul 2022)
-- Currrnt GPA: 4.04/4.3
+- Current GPA: 4.04/4.3
 
 ### National Chiao Tung University (NCTU)
 - Sep 2016 - Jul 2020
