@@ -1,6 +1,7 @@
 ## Hi :))))
 
 My name is Eugene and I'm currently pursuing my master's degree from National Yang Ming Chiao Tung University.
+
 - 📫 How to reach me:
   - [E-mail](mailto:eugene87222@gmail.com)
   - [Facebook](https://www.facebook.com/eugene87222)
@@ -13,8 +14,10 @@ My name is Eugene and I'm currently pursuing my master's degree from National Ya
 ---
 
 ## EDUCATION
+
 ### National Yang Ming Chiao Tung University (NYCU)
-- Master of Science in Multimedia Engineering (Anticipated graduation in Sep 2022)
+- Sep 2020 - Sep 2022
+- Master of Science in Multimedia Engineering
 - GPA: 4.04/4.3
 - Excellence Award on 2021 fall
 
