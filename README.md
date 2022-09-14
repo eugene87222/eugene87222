@@ -1,11 +1,8 @@
 ## Hi :))))
 
-My name is Eugene and I'm currently pursuing my master's degree from National Yang Ming Chiao Tung University.
-
-- 📫 How to reach me:
-  - [E-mail](mailto:eugene87222@gmail.com)
-  - [Facebook](https://www.facebook.com/eugene87222)
-  - [Telegram](https://t.me/Eugene87222)
+- [E-mail](mailto:eugene87222@gmail.com)
+- [Facebook](https://www.facebook.com/eugene87222)
+- [Telegram](https://t.me/Eugene87222)
 
 ![](https://github-readme-stats.vercel.app/api?username=eugene87222&theme=buefy&show_icons=true&count_private=true)
 
