@@ -1,7 +1,5 @@
 ## Hi :))))
 
-- [Telegram](https://t.me/Eugene87222)
-
 ![](https://github-readme-stats.vercel.app/api?username=eugene87222&theme=buefy&show_icons=true&count_private=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eugene87222&theme=buefy&layout=compact&card_width=445)
