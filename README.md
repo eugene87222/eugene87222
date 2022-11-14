@@ -1,6 +1,5 @@
 ## Hi :))))
 
-- [E-mail](mailto:eugene87222@gmail.com)
 - [Telegram](https://t.me/Eugene87222)
 
 ![](https://github-readme-stats.vercel.app/api?username=eugene87222&theme=buefy&show_icons=true&count_private=true)
