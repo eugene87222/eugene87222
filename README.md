@@ -8,7 +8,7 @@
 
 ## EXPERIENCE
 
-### R&D Engineer II @ Synopsys Inc.
+### Senior R&D Engineer @ Synopsys Inc.
 - Hsinchu City, Taiwan
 - Sep 2022 - Present
 
